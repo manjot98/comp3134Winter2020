@@ -1,0 +1,39 @@
+1.
+TCP
+2.
+Number of employees -Nintendo had a total number of 5,944 employees in its 2019 fiscal year. 
+CEO - Shuntaro Furukawa
+CFO - Tatsumi Kimishima
+President - Doug Bowser
+Current job postings - Game Development, Software Development, Business Development, Database Adminstration, Translation, Retail Sales
+Headquarter locations - Kyoto, Kyoto Prefercture, Japan
+3.
+Domain Registration:838552_DOMAIN_COM-VRSN
+Hosting Information:104.113.8.49
+4.
+Reply from 199.227.51.53: bytes=32 time=73ms TTL=238
+Reply from 199.227.51.53: bytes=32 time=76ms TTL=238
+Reply from 199.227.51.53: bytes=32 time=82ms TTL=238
+Reply from 199.227.51.53: bytes=32 time=72ms TTL=238
+
+Ping statistics for 199.227.51.53:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+5.
+Tracing route to nintendo.com [205.166.76.53]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  10.16.32.1
+  2     4 ms     4 ms     3 ms  198.96.85.3
+  3     7 ms     4 ms     4 ms  ut-hub-gbrownc-if-internet.gtanet.ca [205.211.94.173]
+  4     8 ms     5 ms     4 ms  te0-0-0-1.rcr13.b011027-3.yyz02.atlas.cogentco.com [38.104.251.81]
+  5    10 ms     4 ms     8 ms  te0-0-0-10.ccr32.yyz02.atlas.cogentco.com [154.54.0.121]
+  6    16 ms    13 ms    11 ms  be2994.ccr22.cle04.atlas.cogentco.com [154.54.31.233]
+  7    25 ms    23 ms    23 ms  be2890.ccr42.jfk02.atlas.cogentco.com [154.54.82.246]
+  8    64 ms    62 ms    49 ms  be3496.ccr31.jfk10.atlas.cogentco.com [154.54.0.142]
+  9    82 ms    28 ms    32 ms  centurylink.jfk10.cogentco.com [154.54.11.66]
+ 10     *        *        *     Request timed out.
+ 11   110 ms   143 ms    86 ms  63.147.70.18
+ 12    95 ms    84 ms    83 ms  205.166.76.53
+
+Trace complete.

@@ -1,0 +1,20 @@
+1) Filter to only show ARP or DNS packet traffic (no other traffic)
+arp || dns
+2) Filter to only show UDP or TCP packet traffic (no other traffic)
+udp || tcp
+3) Filter to show TCP packet traffic on any port greater than 3000
+tcp.port > 3000
+4) Filter to show only HTTP packet traffic
+http
+5) Filter to how only HTTP post method request packet traffic
+http.request.method == "POST"
+(use a web page form so you can see at least one entry
+6) Filter to show UDP packet traffic that contain the strong “google”
+udp contains "google"
+7) Filter to show HTTP packet traffic where the page was not found
+http.response.code == 404
+8) Filter to show TCP packet traffic where the acknowledgement flag was set
+tcp.flags.ack
+9) Select any two IP addresses and show the Flow Graph demonstrating a 3-way
+handshake between these two IP addresses 
+

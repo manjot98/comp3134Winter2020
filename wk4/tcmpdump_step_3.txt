@@ -1,0 +1,7 @@
+.@.y.q.<V4"...p...?.$m.c..3..rP..q.DT....._.2...^.{.Vt......W....K-.7.#qN.gz...DG....[L......j.......2c.....~....@*..4..,.9@V9#....]..L;....o..W>...qy.7E.V.=..*..y.v;..Va ..U...O.0[..T. O..t.g`...^S.t.)E....Z%SFx.s.D.oS........l.   .!....*b9........
+.S
+
+8628 packets captured
+17739 packets received by filter
+9105 packets dropped by kernel
+root@lamp-s-1vcpu-1gb-tor1-01:~#

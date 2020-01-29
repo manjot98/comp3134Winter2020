@@ -1,0 +1,4 @@
+14652 packets captured
+14846 packets received by filter
+194 packets dropped by kernel
+root@lamp-s-1vcpu-1gb-tor1-01:~#

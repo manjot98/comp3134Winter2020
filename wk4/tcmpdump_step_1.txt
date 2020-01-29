@@ -1,0 +1,7 @@
+q 1261:1297, ack 2217252, win 4108, length 36
+19:17:55.633563 IP 198.96.85.21.51655 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2219488, win 4113, length 0
+19:17:55.633574 IP 198.96.85.21.51655 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2220176, win 4110, length 0
+^C
+13550 packets captured
+13678 packets received by filter
+128 packets dropped by kernel
