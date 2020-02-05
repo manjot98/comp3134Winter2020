@@ -1,0 +1,4 @@
+6)service mysql(any service on list) restart
+service {service_name} {action}
+
+7)$ ssh -p 2222 root@178.128.239.196
