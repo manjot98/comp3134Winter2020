@@ -1,0 +1,2 @@
+1.Command: http
+2.Caputre output:(images in folder)
